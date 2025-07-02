@@ -1,0 +1,5 @@
+- GitHub is an online platform where developers store and share their Git-tracked projects.
+- It makes it easier for people to collaborate, review each other’s code, and suggest improvements using pull requests.
+- Developers use branches to work on new features separately without affecting the main version.
+- GitHub keeps track of all changes, so you can go back in time or understand who changed what.
+- It’s widely used in team projects, making collaboration more organized and efficient.
