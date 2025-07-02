@@ -1,5 +1,0 @@
-- Git is a version control tool that helps developers track changes in their files and code over time.
-- It has three main areas: the working directory, the staging area, and the local repository.
-- Using `git add`, a developer selects which changes should be saved.
-- With `git commit`, they save a snapshot of the project along with a short message.
-- Branches let developers experiment with new ideas without affecting the main version of the code.
